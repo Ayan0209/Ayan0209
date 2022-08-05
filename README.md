@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi! 👋 I'm Ayan Gautam</h1>
+
+<h2 align="center">Software Developer | Open-Source Enthusiast </h2>
+
+<h3 align="center">I'm a passionate software developer from India. Sophomore @ IRA Fulton School of Engineering, ASU pursuing B.SC in Computer Science Engineering :dart:</h3>
+<br>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayan0209&title=Stars,Followers,MultiLanguage,Repositories,Commits,PullRequest&theme=dracula&hide_border=true&no-frame=true" alt="ayan0209" /></a> </p>
+<br>
+
+
 
 <!--
 **Ayan0209/Ayan0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
