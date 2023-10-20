@@ -2,7 +2,7 @@
 
 <h2 align="center">Software Developer | Open-Source Enthusiast </h2>
 
-<h3 align="center">I'm a passionate software developer, Sophomore @ IRA Fulton School of Engineering, ASU pursuing B.SC in Computer Science Engineering :dart:</h3>
+<h3 align="center">I'm a passionate software developer, Senior @ IRA Fulton School of Engineering, ASU pursuing B.SC in Computer Science Engineering :dart:</h3>
 <br>
 
 ### Skills
